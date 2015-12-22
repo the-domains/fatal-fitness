@@ -1,0 +1,28 @@
+name: Fatal Fitness
+favicon: null
+layout_spectrum: 0.6520025611389428
+typography_spectrum: 0.9077403638511896
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.13394885091111064
+  lightness: 0.7688873771112412
+  saturation: 0.6924558114260435
+  rhythmicContrast: 0.24080320890061557
+purpose: []
